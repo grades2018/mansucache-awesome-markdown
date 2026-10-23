@@ -698,6 +698,9 @@ For individual images, compare preview and layout. For batches, compare APIs, de
 - [Markdown To Image Serve](https://github.com/wxingheng/markdown-to-image-serve) - A Next.js and Puppeteer service for generating images from Markdown through an API, with Docker deployment.<br>
   <span>`Open source` · `API` · `Node.js`</span>
 
+- [CurlShot](https://curlshot.com/) - A hosted API that renders Markdown to PNG, JPEG, WebP or PDF for scripts and agent workflows, without managing a browser server. Content is sent to the service; Markdown input is limited to 2 MB and images need public HTTPS URLs. A free monthly allowance and paid plans are available.<br>
+  <span>`Free option` · `API` · [HTML and Markdown input](https://curlshot.com/docs/html-and-markdown) · [Markdown to PDF](https://curlshot.com/tools/markdown-to-pdf)</span>
+
 <a id="其他工具"></a>
 
 ## Miscellaneous

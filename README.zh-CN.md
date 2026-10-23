@@ -652,6 +652,9 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [Markdown To Image Serve](https://github.com/wxingheng/markdown-to-image-serve) - 基于 Next.js 与 Puppeteer 的 Markdown 转图片服务，提供 API 和 Docker 部署，适合批量生成内容图片。<br>
   <span>`开源` · `API` · `Node.js`</span>
 
+- [CurlShot](https://curlshot.com/) - 通过托管 API 将 Markdown 渲染为 PNG、JPEG、WebP 或 PDF，适合脚本与代理工作流，无需自行维护浏览器服务。内容需发送至该服务；Markdown 输入上限为 2 MB，图片需使用公开 HTTPS 链接。提供每月免费额度和付费方案。<br>
+  <span>`提供免费方案` · `API` · [HTML 与 Markdown 输入](https://curlshot.com/docs/html-and-markdown) · [Markdown 转 PDF](https://curlshot.com/tools/markdown-to-pdf)</span>
+
 ## 其他工具
 
 ### 命令行工具
