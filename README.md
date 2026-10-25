@@ -311,6 +311,9 @@ Compare chapter organization, outlines, revision history and export formats.
 - [WonderPen](https://www.tominlab.com/wonderpen) - Organizes manuscripts in a document tree with Markdown, sync and snapshots for chapter-based writing and revision.<br>
   <span>`macOS` · `Windows` · `Linux`</span>
 
+- [ImagineYourBook](https://www.imagineyourbook.com/) - A paid web app that plans a whole book and drafts it chapter by chapter with AI, then downloads the manuscript as Word, EPUB or Markdown. Its Manuscript Rewrite mode also accepts Word, Markdown, text or HTML uploads. Drafts are text only and need author review.<br>
+  <span>`Web`</span>
+
 <a id="办公与协作工具"></a>
 
 ## Office and Collaboration

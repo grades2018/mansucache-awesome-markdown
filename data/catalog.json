@@ -2514,6 +2514,37 @@
       }
     },
     {
+      "id": "imagineyourbook",
+      "name": {
+        "en": "ImagineYourBook",
+        "zh": "ImagineYourBook"
+      },
+      "url": "https://www.imagineyourbook.com/",
+      "category": "long-form-writing",
+      "parent": null,
+      "description": {
+        "en": "A paid web app that plans a whole book and drafts it chapter by chapter with AI, then downloads the manuscript as Word, EPUB or Markdown. Its Manuscript Rewrite mode also accepts Word, Markdown, text or HTML uploads. Drafts are text only and need author review.",
+        "zh": "付费 Web 应用，用 AI 规划整本书并逐章撰写初稿，可将书稿下载为 Word、EPUB 或 Markdown。其 Manuscript Rewrite 模式也支持上传 Word、Markdown、纯文本或 HTML 书稿。生成内容仅为文字，需作者审阅修改。"
+      },
+      "tags": [
+        "web"
+      ],
+      "links": [],
+      "status": "active",
+      "review": {
+        "date": "2026-10-25",
+        "level": "source-review",
+        "sources": [
+          "https://www.imagineyourbook.com/pricing.html",
+          "https://www.imagineyourbook.com/about"
+        ],
+        "note": {
+          "en": "Reviewed the official pricing and about pages for Word, EPUB and Markdown manuscript downloads, Markdown manuscript upload for rewrites, and the paid plan. Submitted by the publisher. No application test.",
+          "zh": "核对官网定价页与关于页中的 Word、EPUB、Markdown 书稿下载、改写模式的 Markdown 上传及付费方案说明。由产品方提交。未进行应用实测。"
+        }
+      }
+    },
+    {
       "id": "feishu-docs",
       "name": {
         "en": "Feishu Docs",
