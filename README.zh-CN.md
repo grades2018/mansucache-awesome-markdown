@@ -299,7 +299,7 @@ Markdown 原生文件、Markdown 输入快捷语法、Markdown 导入导出是�
 - [WonderPen（妙笔）](https://www.tominlab.com/wonderpen) - 通过树状目录组织长篇文稿，支持 Markdown、云同步和文档快照，适合按章节展开并反复修改的写作。<br>
   <span>`macOS` · `Windows` · `Linux`</span>
 
-- [ImagineYourBook](https://www.imagineyourbook.com/) - 付费 Web 应用，用 AI 规划整本书并逐章撰写初稿，可将书稿下载为 Word、EPUB 或 Markdown。其 Manuscript Rewrite 模式也支持上传 Word、Markdown、纯文本或 HTML 书稿。生成内容仅为文字，需作者审阅修改。<br>
+- [ImagineYourBook](https://www.imagineyourbook.com/) - 付费 Web 应用，用 AI 规划书籍、逐章起草，并导出 Word、EPUB 或 Markdown。Manuscript Rewrite 支持上传 Word、Markdown、纯文本或 HTML 书稿进行在线改写。初稿需作者审阅；试用需绑卡，若不取消，七天后开始收费。<br>
   <span>`Web`</span>
 
 ## 办公与协作工具
